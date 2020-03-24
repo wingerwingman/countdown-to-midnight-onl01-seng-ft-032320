@@ -1,6 +1,6 @@
 #write your code here
-def countdown
-  count = 10
+def countdown(count)
+  #count = 10
   while count > 0
     puts "#{count} SECOND(s)!"
     count -= 1
@@ -11,8 +11,8 @@ end
 countdown
 
 #write your code here
-def countdown_with_sleep
-  count = 5
+def countdown_with_sleep(count)
+  #count = 5
   while count > 0
     puts "#{count} SECOND(s)!"
     count -= 1
