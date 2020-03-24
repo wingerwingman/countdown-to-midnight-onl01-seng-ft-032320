@@ -1,4 +1,5 @@
 #write your code here
+count = 10
 def countdown(count)
   # count = 10
   while count > 0
