@@ -9,4 +9,3 @@ def countdown
   return "HAPPY NEW YEAR!"
 end
 
-puts countdown
