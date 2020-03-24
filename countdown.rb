@@ -5,14 +5,14 @@ def countdown
     puts "#{count} SECOND(s)!"
     count -= 1
   end
-  return "HAPPY NEW YEAR!"
+  puts "HAPPY NEW YEAR!"
 end
 
 countdown
 
 #write your code here
 def countdown_with_sleep
-  count = 10
+  count = 5
   while count > 0
     puts "#{count} SECOND(s)!"
     count -= 1
